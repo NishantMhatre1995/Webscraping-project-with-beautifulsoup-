@@ -1,0 +1,2 @@
+# Webscraping-project-with-beautifulsoup-
+In this project i scrap nearly 50 web-pages and and store some author's detail like birth date, name, etc with their quotes and store these quotes in a list.  now any random quotes show to user and user has chance to guess corresponding author name with 3 chance. if user miss then some hint is show to user like author first name letter than last name  letter and at the end born data. so it's simple game created by scraping website.
